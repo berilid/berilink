@@ -1,2 +1,2 @@
-# berilink
+# Javascript untuk web safelink
 berilink
